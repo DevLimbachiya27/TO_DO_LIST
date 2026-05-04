@@ -154,3 +154,4 @@ Status Update
 
 💡 Final Note
 This project is perfect for building real-world backend understanding + UI structuring skills and gives you a strong base for bigger full-stack applications 🚀
+<img width="1881" height="876" alt="Screenshot 2026-05-04 121232" src="https://github.com/user-attachments/assets/4204614e-799e-48d2-b217-cdb89399e37a" />
